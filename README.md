@@ -19,24 +19,22 @@ This repository contains **Python scripts** and **Jupyter notebooks** that perfo
 
 Follow these steps to set up and run the project on your local machine.  
 
-### **1.Clone the Repository**  
+### **1️⃣ Clone the Repository**  
 Run the following command in your terminal:  
 ```bash
 git clone https://github.com/PreethiVantala/Data_Analysis.git
 cd Data_Analysis
 
-### **2.Install Dependencies
+3️⃣ Install Dependencies
 Install all required Python libraries using:
-```bash
 pip install -r requirements.txt
 
-### **3.Open Jupyter Notebook
+4️⃣ Open Jupyter Notebook
 To explore the dataset and run analysis, launch Jupyter Notebook:
-```bash
 jupyter notebook
 Then, open and run the .ipynb notebooks in the notebooks/ directory.
 
-### **Repository Structure 📂
+Repository Structure 📂
 Data_Analysis/
 │── data/                # Raw and processed datasets
 │── notebooks/           # Jupyter notebooks for analysis
@@ -45,19 +43,16 @@ Data_Analysis/
 │── requirements.txt     # List of dependencies
 │── README.md            # Project documentation
 
-### **Dataset Information 📜
-The dataset used in this analysis is the Titanic dataset, which contains details about passengers aboard the Titanic, including survival status.
 
-📂 Source: Available in the data/ directory.
+Dataset Information 📜
+The dataset used in this analysis is the Titanic dataset, which contains details about passengers aboard the Titanic, including survival status.
 🔗 Original Dataset: Kaggle - Titanic Dataset
 
-### **Key Insights & Findings 🔍
-💡 Passenger Class & Survival: Higher-class passengers had a better survival rate.
-👩 Women & Children First: Women and children had a higher survival probability.
-🛳️ Fare & Survival: Passengers who paid higher fares had a better chance of survival.
-More detailed findings and visualizations are available in the reports/ directory.
-
-### Contributing 🤝
+Contributing 🤝
 Contributions are welcome! If you’d like to improve this project, follow these steps:
 
-
+Fork the repository
+Create a new branch (git checkout -b feature-branch)
+Make your changes and commit (git commit -m "Added new feature")
+Push to your branch (git push origin feature-branch)
+Submit a pull request
