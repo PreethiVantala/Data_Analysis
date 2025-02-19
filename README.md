@@ -1,4 +1,3 @@
-```markdown
 # **Data Analysis Repository 📊**
 
 Welcome to the **Data Analysis** repository! This project focuses on analyzing the **Titanic dataset** to uncover insights and patterns. 🚢  
