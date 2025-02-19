@@ -1,3 +1,4 @@
+```markdown
 # **Data Analysis Repository 📊**
 
 Welcome to the **Data Analysis** repository! This project focuses on analyzing the **Titanic dataset** to uncover insights and patterns. 🚢  
@@ -24,17 +25,26 @@ Run the following command in your terminal:
 ```bash
 git clone https://github.com/PreethiVantala/Data_Analysis.git
 cd Data_Analysis
+```
 
-3️⃣ Install Dependencies
-Install all required Python libraries using:
+### **2️⃣ Install Dependencies**  
+Install all required Python libraries using:  
+```bash
 pip install -r requirements.txt
+```
 
-4️⃣ Open Jupyter Notebook
-To explore the dataset and run analysis, launch Jupyter Notebook:
+### **3️⃣ Open Jupyter Notebook**  
+To explore the dataset and run analysis, launch Jupyter Notebook:  
+```bash
 jupyter notebook
-Then, open and run the .ipynb notebooks in the notebooks/ directory.
+```
+Then, open and run the `.ipynb` notebooks in the **`notebooks/`** directory.  
 
-Repository Structure 📂
+---
+
+## **Repository Structure 📂**  
+
+```
 Data_Analysis/
 │── data/                # Raw and processed datasets
 │── notebooks/           # Jupyter notebooks for analysis
@@ -42,17 +52,30 @@ Data_Analysis/
 │── reports/             # Generated reports and visualizations
 │── requirements.txt     # List of dependencies
 │── README.md            # Project documentation
+```
 
+---
 
-Dataset Information 📜
-The dataset used in this analysis is the Titanic dataset, which contains details about passengers aboard the Titanic, including survival status.
-🔗 Original Dataset: Kaggle - Titanic Dataset
+## **Dataset Information 📜**  
 
-Contributing 🤝
-Contributions are welcome! If you’d like to improve this project, follow these steps:
+The dataset used in this analysis is the **Titanic dataset**, which contains details about passengers aboard the Titanic, including survival status.  
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Added new feature")
-Push to your branch (git push origin feature-branch)
-Submit a pull request
+- **🔗 Original Dataset:** [Kaggle - Titanic Dataset](https://www.kaggle.com/c/titanic/data)  
+
+---
+
+## **Contributing 🤝**  
+
+Contributions are welcome! If you’d like to improve this project, follow these steps:  
+
+1. **Fork the repository**  
+2. **Create a new branch** (`git checkout -b feature-branch`)  
+3. **Make your changes and commit** (`git commit -m "Added new feature"`)  
+4. **Push to your branch** (`git push origin feature-branch`)  
+5. **Submit a pull request**   
+
+---
+
+### **✨ Happy Coding & Data Exploring! 🚀**
+```
+
